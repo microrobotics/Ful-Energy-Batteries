@@ -1,2 +1,2 @@
-# Ful-Eenergy-Batteries
+# Ful-Energy-Batteries
 Full Energy Lipo Batteries
